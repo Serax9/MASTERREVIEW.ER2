@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+.link {
+	color: #AC2C23;
+}
+
+.heading {
+	display: inline-block;
+	
+}
+
+.uicontainergrid {
+	margin: -16px 84.5px;
+	display: inline-block; 
+}
+
+.content {
+	display: inline-block;
+	margin-bottom: 100px;
+}
+
+.overlay {
+	break-after: always;
+}
+
+
+.dankcover { 
+	float: left;
+}
+
+
+.summary {
+	padding-left: 264.5px;
+	color: white;
+}
+
+.summary a:hover {
+	background-color: black;
+	color: #AC2C23;
+}
+
+#head {
+	background-attachment: scroll;
+	background-position: 50% 10%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 700px;
+}
+
+body {
+	background-color: black;
+}

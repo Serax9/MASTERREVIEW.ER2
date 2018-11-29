@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+.border {
+	color: white;
+	padding-bottom: 4.8px;
+	border-bottom: 1px;
+}
+
+.uigridcontainer {
+	margin: 16px 67px;
+}
+
+.sixteenwidecolumn {
+	padding: 16px;
+}
+
+.uimasterheader {
+	margin-top: -2.286px;
+	margin-bottom: 16px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.uifourthumbnails {
+	margin: 7px 10.5px 7px -10.5px;
+	display: inline-block;
+}
+
+.thumbnail {
+	padding: 9.750px;
+	display: inline-block;
+}
+
+.holder {
+	padding-bottom: 50px
+}
+
+.text a {
+	color: white;
+	font-size: 20px;
+}
+
+.text a:hover {
+	color: #AC2C23;
+}
